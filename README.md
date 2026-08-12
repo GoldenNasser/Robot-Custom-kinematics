@@ -33,7 +33,7 @@ Below are the video demonstrations of the robot executing our custom movement fu
 
 ### Move 1: The Symmetrical Wide Stance Stretch
 *This move pushes the legs outward to widen the robot's center of gravity, testing the symmetrical offset math.*
-[Insert Link to Video 1 Here]
+[https://drive.google.com/file/d/1ehsMpyoqLA4xMyz3gcPDM7Q1kiL989w7/view?usp=sharing]
 
 ### Move 2: The Alternating March
 *A foundational tap-dance motion where the robot lifts and plants alternating legs while maintaining chassis stability.*
