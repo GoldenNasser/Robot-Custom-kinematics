@@ -37,7 +37,7 @@ Below are the video demonstrations of the robot executing our custom movement fu
 
 ### Move 2: The Alternating March
 *A foundational tap-dance motion where the robot lifts and plants alternating legs while maintaining chassis stability.*
-[Insert Link to Video 2 Here]
+[Insert Link to Video 2 Here https://drive.google.com/file/d/1HOvBtzyv6HtMpX2Xqff50qX2n-gcYYO7/view?usp=sharing]
 
 ### Move 3: Take a Bow
 *By pulling the front legs inward (Front Left to 90°, Front Right to 26°) while keeping the back legs locked as a sturdy kickstand, the robot dynamically dips its front chassis.*
